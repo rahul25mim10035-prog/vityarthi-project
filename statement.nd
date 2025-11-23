@@ -1,0 +1,27 @@
+# VTOP – VIT On TOP System
+
+## Problem Statement
+Students, faculty, parents, and alumni often need quick and secure access to academic and institutional data. Currently, accessing this information can be time-consuming and manual. This project provides a centralized, role-based system to allow each type of user to access relevant information easily.
+
+## Scope of the Project
+- Role-based access for four types of users: Student, Employee, Parent, Alumni
+- Display of attendance, marks, and weekly timetable for students
+- Display of courses and student list for employees
+- Display of child’s information and attendance for parents
+- Display of passout details and events for alumni
+- Secure login and logout 
+- CLI-based interface, easily expandable for database or GUI integration in the future
+
+## Target Users
+- VIT Students
+- Faculty / Employees
+- Parents of students
+- Alumni
+
+## High-Level Features
+- User authentication with role-based menu
+- View attendance, marks, and timetable (Student)
+- View assigned courses and students under supervision (Employee)
+- View child details and overall attendance (Parent)
+- View passout details and alumni events (Alumni)
+- Logout 
